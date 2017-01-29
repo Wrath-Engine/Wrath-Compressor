@@ -1,0 +1,9 @@
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\bin\Debug\WrathCompressor.exe.config
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\bin\Debug\WrathCompressor.exe
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\bin\Debug\WrathCompressor.pdb
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\obj\Debug\WrathCompressor.csprojResolveAssemblyReference.cache
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\obj\Debug\WrathCompressor.Form1.resources
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\obj\Debug\WrathCompressor.Properties.Resources.resources
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\obj\Debug\WrathCompressor.csproj.GenerateResource.Cache
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\obj\Debug\WrathCompressor.exe
+c:\users\4kbytes\documents\visual studio 2015\Projects\WrathCompressor\WrathCompressor\obj\Debug\WrathCompressor.pdb
