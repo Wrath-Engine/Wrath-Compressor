@@ -1,0 +1,4 @@
+artifacts:
+  - path: WrathCompressor/bin/Debug
+    name: build-artifacts
+    type: zip
