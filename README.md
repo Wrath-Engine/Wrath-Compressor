@@ -1,4 +1,6 @@
-# Wrath-Compressor
+# Wrath Compressor
+![AppVeyor Status](https://ci.appveyor.com/api/projects/status/y7at8xd0ahes0g14)
+
 Compress files into 7PK format for use with the Wrath2D engine.
 
 ## 7PK Specification
